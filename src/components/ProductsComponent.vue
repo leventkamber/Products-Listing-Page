@@ -8,7 +8,7 @@
       <ul id="navbar">
         <li>
           <a
-            href="all"
+            href="#"
             @click="
               filterByCategory('#');
               closeNavbar();
