@@ -1,5 +1,9 @@
 # Products Listing Page
 
+## Getting Started
+
+To see this project in action, you can visit [here](https://leventkamber.github.io/products-listing-page/).
+
 ## Project setup
 ```
 npm install
